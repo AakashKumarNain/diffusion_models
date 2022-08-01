@@ -12,7 +12,7 @@ of it, the mathematics behind the diffusion models is a bit harder to understand
 this, we are creating this repo to give you enough material to make you understand the
 working of diffusion models and the maths involved.
 
-We try to keep everything organized in notebooks that you can run them on **Colab.**
+We try to keep everything organized in notebooks which you can run on **Colab.**
 We are also organizing the content in a series of short blog-posts but that would take some time.
 Also, some of the notebooks presented here are marked as *optional*. These notebooks covers
 the theoretical parts that you should be aware of before reading about diffusion models. 
