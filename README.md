@@ -1,3 +1,6 @@
+**Update:** All the notebooks presented in this repo have been converted into a series of blog posts.
+You can read them [here](https://magic-with-latents.github.io/latent/blog.html)
+
 # Diffusion Models
 
 Diffusion models are a class of likelihood-based generative models that recently have been used
