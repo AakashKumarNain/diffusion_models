@@ -1,5 +1,4 @@
-**Update:** All the notebooks presented in this repo have been converted into a series of blog posts.
-You can read them [here](https://magic-with-latents.github.io/latent/blog.html)
+**Update:** Blog posts: [DDPMs from scratch](https://magic-with-latents.github.io/latent/ddpms-series.html)
 
 # Diffusion Models
 
@@ -26,6 +25,6 @@ the theoretical parts that you should be aware of before reading about diffusion
 
 | Chapter No   | <div style="width:250px">Topic</div> | Colab | GitHub |
 | ------------ | -----------------------------------  | ----- | ------ |
-|  1.  | **Random Variables (Optional)**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/diffusion_models/blob/main/notebooks/Random%20Variables.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/diffusion_models/blob/main/notebooks/Random%20Variables.ipynb) |
+|  1.  |[**Random Variables (Optional)**](https://magic-with-latents.github.io/latent/posts/ddpms/part1/)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/diffusion_models/blob/main/notebooks/Random%20Variables.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/diffusion_models/blob/main/notebooks/Random%20Variables.ipynb) |
 |  2.  | **Gaussian Distribution and DDPMs**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/diffusion_models/blob/main/notebooks/all_you_need_to_know_about_gaussian.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/diffusion_models/blob/main/notebooks/all_you_need_to_know_about_gaussian.ipynb) |
 |  3.  | **A deep dive into DDPMs**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AakashKumarNain/diffusion_models/blob/main/notebooks/deep_dive_into_ddpms.ipynb) |[![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/AakashKumarNain/diffusion_models/blob/main/notebooks/deep_dive_into_ddpms.ipynb) |
